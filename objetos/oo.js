@@ -20,3 +20,4 @@ objeto.processamento() // Foco passou a ser o objeto
 // 1. abstração 
 // 2. encapsulamento 
 // 3. herançã (prototype)
+// 4. polimorfismo
